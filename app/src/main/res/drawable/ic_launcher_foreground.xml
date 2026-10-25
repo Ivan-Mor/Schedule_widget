@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- кузов автобуса -->
+    <path
+        android:fillColor="#7AB8FF"
+        android:pathData="M36,30 L72,30 C76,30 79,33 79,37 L79,66 C79,70 76,73 72,73 L36,73 C32,73 29,70 29,66 L29,37 C29,33 32,30 36,30 Z" />
+    <!-- лобовое и боковые окна -->
+    <path
+        android:fillColor="#1E1F22"
+        android:pathData="M35,36 L49,36 L49,48 L35,48 Z M53,36 L64,36 L64,48 L53,48 Z M35,52 L73,52 L73,57 L35,57 Z" />
+    <!-- колёса -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M39,73 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0 M69,73 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+</vector>

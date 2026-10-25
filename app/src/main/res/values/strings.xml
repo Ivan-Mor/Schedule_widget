@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Малиновка Транспорт</string>
+    <string name="widget_label">Расписание Малиновка</string>
+    <string name="monitoring_channel_name">Мониторинг «Выхожу»</string>
+    <string name="alerts_channel_name">Подача транспорта</string>
+    <string name="monitoring_ongoing">Слежу за транспортом</string>
+    <string name="monitoring_stop">Остановить</string>
+    <string name="settings_direction_title">Направление для кнопки «Выхожу»</string>
+    <string name="settings_routes_title">Маршруты</string>
+    <string name="settings_threshold_title">Порог «пора» (минут)</string>
+    <string name="settings_notifications">Разрешить уведомления</string>
+    <string name="settings_update_now">Обновить виджет сейчас</string>
+    <string name="settings_battery_hint">Для мониторинга «Выхожу» на HyperOS включите для приложения «Без ограничений» (Настройки → Приложения → Батарея) и автозапуск.</string>
+</resources>
